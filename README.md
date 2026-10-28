@@ -1,8 +1,8 @@
-# Hi, I'm Marco 👋
+Hi, I'm Marco 👋
 
-MSc student at Maastricht University, focusing on human movement and biomechanics.
+MSc student in Human Movement Sciences (Health and Rehabilitation) at Maastricht University.
 
-- 🔬 Interested in: biomechanics, endurance training, sports performance data
-- 🛠️ Currently learning: Python for data analysis, OpenSim, Git
+- 🔬 Interested in: rehabilitation, gait and movement analysis, exercise as therapy, endurance training
+- 🛠️ Currently learning: Python for movement data analysis, OpenSim, Git
 - 🌱 This profile will collect my course and research projects as they grow
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/marcobernardi18)# README
+- 📫 Reach me on [LinkedIn]   https://www.linkedin.com/in/marcobernardi18/
